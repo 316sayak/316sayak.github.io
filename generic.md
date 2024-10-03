@@ -33,7 +33,7 @@ My work is primarily focused on probing the gaseous halo around galaxies by the 
     </section>
 
 
-    <section id="banner1" class="major">
+    <section id="banner" class="major">
         <div class="inner"> 
 
             <header class="major">
@@ -52,7 +52,7 @@ My work is primarily focused on probing the gaseous halo around galaxies by the 
     </section>
 
    
-     <section id="banner2" class="major">
+     <section id="banner" class="major">
         <div class="inner"> 
           <span class="image">
             <img src="assets/images/ovi1.png" alt="MUSEQuBES-III" />

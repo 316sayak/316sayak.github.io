@@ -6,7 +6,7 @@
 
 /* Banner */
 
-	:is(#banner, #banner1, #banner2, #banner3)  {
+	#banner  {
 		@include vendor('align-items', 'center');
 		@include vendor('background-image', 'url("../images/banner2.jpeg")');
 		@include vendor('display', 'flex');
@@ -19,7 +19,7 @@
 		cursor: default;
 		height: 60vh;
 		margin-bottom: -3.25em;
-		max-height: 32em;
+		:wmax-height: 32em;
 		min-height: 22em;
 		position: relative;
 		top: -3.25em;
