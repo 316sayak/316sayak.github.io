@@ -6,9 +6,9 @@
 
 /* Banner */
 
-	#banner {
+	:is(#banner, #banner1, #banner2, #banner3)  {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url("../images/banner.jpg")');
+		@include vendor('background-image', 'url("../images/banner2.jpeg")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
@@ -23,7 +23,8 @@
 		min-height: 22em;
 		position: relative;
 		top: -3.25em;
-
+                
+                
 		&:after {
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
 			@include vendor('transition-delay', '0.75s');
@@ -39,6 +40,7 @@
 			width: 100%;
 			z-index: 1;
 		}
+                
 
 		h1 {
 			font-size: 3.25em;
