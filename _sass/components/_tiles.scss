@@ -9,10 +9,10 @@
 	.tiles {
 		@include vendor('display', 'flex');
 		@include vendor('flex-wrap', 'wrap');
-		border-top: 0 !important;
+		border-top: 0 ;
 
 		& + * {
-			border-top: 0 !important;
+			border-top: 0 ;
 		}
 
 		article {
@@ -38,7 +38,8 @@
 
 			.image {
 				display: none;
-			}
+			        }
+                        
 
 			header {
 				position: relative;

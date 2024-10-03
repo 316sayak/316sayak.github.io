@@ -9,8 +9,7 @@
 	.tiles {
 		@include vendor('display', 'flex');
 		@include vendor('flex-wrap', 'wrap');
-                @include vendor('background-image', 'url("../images/muse.png")');
-
+                
 		border-top: 0 !important;
 
 		& + * {
