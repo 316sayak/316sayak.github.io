@@ -4,7 +4,7 @@ title: Academics
 description1: A brief overview of the galaxy survey and our first result of the statistical distribution of neutral hydrogen in and around the galaxies can be found here.
 description2: The column density and inferred mass of OVI-bearing gas around galaxies is presented here. Leveraging the low-mass galaxies from MUSEQuBES alongside the higher-mass galaxies from literature, this work disentangles the different origin scenarios of OVI in galactic halos. 
 description3: The kinematics of the OVI-bearing gas and the role of host galaxy properties is explored in this work. 
-image: assets/images/muse.png
+image: assets/images/spec2.png
 im2: /assets/images/acad1.png
 im3: /assets/images/ovi1.png
 nav-menu: true
