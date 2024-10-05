@@ -12,6 +12,8 @@ nav-menu: true
 
 My work is primarily focused on probing the gaseous halo around galaxies by the means of absorption spectroscopy of the background quasars. The galaxies are primarily part of our own <b>MUSEQuBES</b> galaxy survey (<b>MUSE</b> <b>Q</b>uasar-field <b>B</b>lind <b>E</b>mitter <b>S</b>urvey) around 16 quasar sightlines with the highest S/N COS spectra available in the Hubble Legacy Archive. 
 
+Some of the publications resulted from my work can be found below-  
+
 <body>
 
 
