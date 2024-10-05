@@ -6,14 +6,13 @@
 
 /* Tiles */
 
-	.tiles {
+	#tilesAcad {
 		@include vendor('display', 'flex');
 		@include vendor('flex-wrap', 'wrap');
-                
-		border-top: 0 !important;
+		border-top: 0 ;
 
 		& + * {
-			border-top: 0 !important;
+			border-top: 0 ;
 		}
 
 		article {
@@ -37,9 +36,10 @@
 			position: relative;
 			width: 40%;
 
-			.image {
+			/*.image {
 				display: none;
-			}
+			        }*/
+                        
 
 			header {
 				position: relative;
